@@ -1,5 +1,5 @@
 blueprint:
-  name: Cover control with Tradfri open/close remote
+  name: Fyrtur control open/close remote
   description: |
     Control a cover with an Ikea Tradfri open/close button remote over ZHA
 
